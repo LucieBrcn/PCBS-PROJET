@@ -23,7 +23,7 @@ Hypothèse : on suppose que le contexte émotionnel aura un impact sur les capac
 
 Pour cela, j'ai utilisé 4 images exprimant des émotions ("Colère", "Joie", "Peur" et "Tristesse")  
 
-![Stimuli visages](/Users/luciebracon/Desktop/COGMASTER/M1/AE_Programmation/PCBS-PROJET_BRACON/Ekmanfaces.png)
+![Stimuli visages](/Users/luciebracon/Desktop/COGMASTER/M1/AE_Programmation/PCBS-PROJET_BRACON/PCBS-PROJET/PCBS_PROJET_final/Ekmanfaces.png)
 
 Ainsi que 4 mots exprimant les même émotions.  
 Je les ai ensuite combiné afin de créer des items "congruents" (lorsque l'émotion du visage concorde avec l'émotion exprimée par le mot) et des items "incongruents" (lorsque l'émotion du visage est différente de l'émotion exprimée par le mot)  
